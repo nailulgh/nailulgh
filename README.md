@@ -1,3 +1,10 @@
+<!-- Wave Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity%20✨&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
+###
+
 <h2 align="left">Hi 👋! My name is Nailul</h2>
 
 ###
@@ -5,6 +12,57 @@
 <h3 align="left">I'm a Informatics engineering student at UIN Maulana Malik Ibrahim Malang</h3>
 
 ###
+
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Nailul+Ghufron+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%8E%93;Web+%26+Mobile+Developer+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%92%AB" alt="Typing SVG" />
+  </a>
+</div>
+
+###
+
+<!-- About Me Card -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100%">
+        <br>
+        🌟 &nbsp;<b>About Me</b>&nbsp; 🌟
+        <br><br>
+        <p>
+          Hello! Welcome to my GitHub profile! 😄<br>
+          I am a student who is <b>passionate</b> in the field of technology,<br>
+          always thirsty for new knowledge and likes to explore the world of <b>coding</b>.<br>
+          From web to mobile, from frontend to backend — <b>bring it on!</b> 💪
+        </p>
+        <p>
+          🎓 &nbsp; Informatics Engineering — UIN Maulana Malik Ibrahim Malang<br>
+          🌏 &nbsp; Based in Indonesia 🇮🇩<br>
+          💡 &nbsp; <i>"Code is poetry written in logic."</i><br>
+          🎯 &nbsp; Turning ideas into reality, one commit at a time
+        </p>
+        <br>
+      </td>
+    </tr>
+  </table>
+</div>
+
+###
+
+<!-- Fun Facts -->
+<details>
+  <summary>⚡ Fun Facts About Me</summary>
+  <br>
+  <ul>
+    <li>🐛 I don't have bugs in my code... they're <i>undocumented features</i> 😄</li>
+    <li>☕ My code runs on coffee and curiosity</li>
+    <li>🌙 Best ideas come at 2 AM — classic developer life</li>
+    <li>🎮 When I'm not coding, I'm probably gaming or exploring new tech</li>
+    <li>🔥 I believe: <b>great code = great impact</b></li>
+  </ul>
+</details>
+
 
 <div align="center">
   <a href="https://www.instagram.com/ghufr.on011/" target="_blank">
