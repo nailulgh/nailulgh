@@ -33,6 +33,8 @@
   <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
 </div>
 
 ###
