@@ -3,7 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20World!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Where%20Code%20Meets%20Creativity%20✨&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<h2>Hi 👋! My name is Nailul</h2>
+###
+
+<h2 align="left">Hi 👋! My name is Nailul</h2>
+
+###
 
 <!-- Typing Animation -->
 <div align="center">
@@ -11,6 +15,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Nailul+Ghufron+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%8E%93;Web+%26+Mobile+Developer+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%92%AB" alt="Typing SVG" />
   </a>
 </div>
+
+###
+
 
 <!-- About Me Card -->
 <div align="center">
@@ -38,6 +45,8 @@
   </table>
 </div>
 
+###
+
 <div align="center">
   <a href="https://www.instagram.com/ghufr.on011/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -50,7 +59,7 @@
   </a>
 </div>
 
-###
+##
 
 <!-- Fun Facts -->
 <details>
@@ -65,14 +74,23 @@
   </ul>
 </details>
 
+
+###
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/nailulgh/nailulgh/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/nailulgh/nailulgh/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
+###
+
 <h4 align="left">My Development Skills and Tools</h4>
 
+###
+
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWMyOGpwOGRlZ25ya2s2M2doZHhxNHh0N3VrcGR0ZjQ1Y2d1Z3FxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -98,6 +116,8 @@
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
 </div>
 
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
@@ -108,9 +128,13 @@
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
 </div>
 
+###
+
 <br clear="both">
 
 <h4 align="left">My Contribution</h4>
+
+###
 
 <br clear="both">
 
@@ -119,3 +143,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nailulgh/nailulgh/pacman-output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nailulgh/nailulgh/pacman-output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<p align="left"></p>
+
+###
