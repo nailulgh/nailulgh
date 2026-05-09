@@ -7,7 +7,6 @@
 
 <h2 align="left">Hi 👋! My name is Nailul</h2>
 
-###
 
 <!-- Typing Animation -->
 <div align="center">
@@ -15,8 +14,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Nailul+Ghufron+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%8E%93;Web+%26+Mobile+Developer+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Let's+build+something+amazing!+%F0%9F%92%AB" alt="Typing SVG" />
   </a>
 </div>
-
-###
 
 
 <!-- About Me Card -->
