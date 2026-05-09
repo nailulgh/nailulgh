@@ -9,10 +9,6 @@
 
 ###
 
-<h3 align="left">I'm a Informatics engineering student at UIN Maulana Malik Ibrahim Malang</h3>
-
-###
-
 <!-- Typing Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -21,6 +17,7 @@
 </div>
 
 ###
+
 
 <!-- About Me Card -->
 <div align="center">
@@ -31,14 +28,14 @@
         🌟 &nbsp;<b>About Me</b>&nbsp; 🌟
         <br><br>
         <p>
-          Hello! Welcome to my GitHub profile! 😄<br>
+          <b>Hello!</b> Welcome to my GitHub profile! 😄<br>
           I am a student who is <b>passionate</b> in the field of technology,<br>
           always thirsty for new knowledge and likes to explore the world of <b>coding</b>.<br>
           From web to mobile, from frontend to backend — <b>bring it on!</b> 💪
         </p>
         <p>
-          🎓 &nbsp; Informatics Engineering — UIN Maulana Malik Ibrahim Malang<br>
-          🌏 &nbsp; Based in Indonesia 🇮🇩<br>
+          🎓 &nbsp; <b> Informatics Engineering — UIN Maulana Malik Ibrahim Malang</b> <br>
+          🌏 &nbsp; Based in <b>Indonesia</b> 🇮🇩<br>
           💡 &nbsp; <i>"Code is poetry written in logic."</i><br>
           🎯 &nbsp; Turning ideas into reality, one commit at a time
         </p>
@@ -49,20 +46,6 @@
 </div>
 
 ###
-
-<!-- Fun Facts -->
-<details>
-  <summary>⚡ Fun Facts About Me</summary>
-  <br>
-  <ul>
-    <li>🐛 I don't have bugs in my code... they're <i>undocumented features</i> 😄</li>
-    <li>☕ My code runs on coffee and curiosity</li>
-    <li>🌙 Best ideas come at 2 AM — classic developer life</li>
-    <li>🎮 When I'm not coding, I'm probably gaming or exploring new tech</li>
-    <li>🔥 I believe: <b>great code = great impact</b></li>
-  </ul>
-</details>
-
 
 <div align="center">
   <a href="https://www.instagram.com/ghufr.on011/" target="_blank">
@@ -75,6 +58,22 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+##
+
+<!-- Fun Facts -->
+<details>
+  <summary><strong>⚡ Fun Facts About Me</strong></summary>
+  <br>
+  <ul>
+    <li>🐛 I don't have bugs in my code... they're <i>undocumented features</i> 😄</li>
+    <li>☕ My code runs on coffee and curiosity</li>
+    <li>🌙 Best ideas come at 2 AM </li>
+    <li>🎮 When I'm not coding, I'm probably gaming or exploring new tech</li>
+    <li>🔥 I believe: <b>great code = great impact</b></li>
+  </ul>
+</details>
+
 
 ###
 
