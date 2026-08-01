@@ -26,13 +26,10 @@
         <br><br>
         <p>
           <b>Hello!</b> Welcome to my GitHub profile! 😄<br>
-          I am a student who is <b>passionate</b> in the field of technology,<br>
-          always thirsty for new knowledge and likes to explore the world of <b>coding</b>.<br>
-          From web to mobile, from frontend to backend — <b>bring it on!</b> 💪
-        </p>
+        <p>
         <p>
           🎓 &nbsp; <b> Informatics Engineering — UIN Maulana Malik Ibrahim Malang</b> <br>
-          🌏 &nbsp; Based in <b>Indonesia</b> 🇮🇩<br>
+          🌏 &nbsp; Based in <b>Malang, East Java, Indonesia</b> 🇮🇩<br>
           💡 &nbsp; <i>"Code is poetry written in logic."</i><br>
           🎯 &nbsp; Turning ideas into reality, one commit at a time
         </p>
@@ -41,6 +38,7 @@
     </tr>
   </table>
 </div>
+
 
 ###
 
